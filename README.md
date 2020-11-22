@@ -1,6 +1,6 @@
-# Lodestone CVEs
+# CVEs
 
-This is a list of CVEs reported by Lodestone Security.
+This is a list of CVEs discovered by me.
 
 ## OpenEMR
 * [CVE-2019-16404 (SQLi)](CVE-2019-16404/README.md)
@@ -13,3 +13,5 @@ This is a list of CVEs reported by Lodestone Security.
 
 ## SysAid Reflected XSS
 * [CVE-2020-13168 (Reflected XSS)](CVE-2020-13168/README.md)
+
+**Note: Links to Lodestone in CVE references are because thats where I worked when I was discovering them. It was still just me doing the discovering though.**
