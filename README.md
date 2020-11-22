@@ -14,4 +14,4 @@ This is a list of CVEs discovered by me.
 ## SysAid Reflected XSS
 * [CVE-2020-13168 (Reflected XSS)](CVE-2020-13168/README.md)
 
-**Note: Links to Lodestone in CVE references are because thats where I worked when I was discovering them. It was still just me doing the discovering though.**
+*Note: Links to Lodestone in CVE references are because thats where I worked when I was discovering them. It was still just me doing the discovering though.*
